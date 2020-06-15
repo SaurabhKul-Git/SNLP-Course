@@ -23,5 +23,5 @@ Here we have used brown corpus and frequency and conditional frequency distribut
 6)pos tagging on indian package.pynb
 
 
-7) 12th June task.pynb
+7)12th June task.pynb
 
