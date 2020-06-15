@@ -18,10 +18,17 @@ Here we have used brown corpus and frequency and conditional frequency distribut
 
 
 5)Homework 2.pynb
-
+* Tokenizer
+   * Stemming
+   * Lemmatizer
+   * StopWords Removal
+   * POS Tagging
 
 6)pos tagging on indian package.pynb
 
 
 7)12th June task.pynb
+* Lexicon
+   * simple text classifier
+   * vectorisers & cosine similarity
 
