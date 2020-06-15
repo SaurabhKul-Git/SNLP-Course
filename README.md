@@ -1,5 +1,7 @@
 # SNLP-Course
 this is a set of nlp task that are done as a lab exercise and some additional insights that i have gained
+
+
 1)NLP_LAB_DAY1.pynb
 
 
