@@ -47,3 +47,5 @@ Sentiment analysis.pynb
 
 
 10)Chunking(1).pynb--->Chunking task on LOR1 and LOR2 text files
+
+11) Spacy Implementation--->Spacy.pynb
