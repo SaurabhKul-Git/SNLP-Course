@@ -1,7 +1,9 @@
 
 # SNLP-Course
 this is a set of nlp task that are done as a lab exercise and some additional insights that i have gained
-LINK OF GITHUB REPO:
+
+
+LINK OF GITHUB REPO:https://github.com/SaurabhKul-Git/SNLP-Course
 
 1)NLP_LAB_DAY1.pynb
 
