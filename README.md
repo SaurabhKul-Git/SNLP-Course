@@ -1,3 +1,4 @@
+
 # SNLP-Course
 this is a set of nlp task that are done as a lab exercise and some additional insights that i have gained
 
@@ -32,3 +33,13 @@ Here we have used brown corpus and frequency and conditional frequency distribut
    * simple text classifier
    * vectorisers & cosine similarity
 
+8) 28th june
+Sentiment analysis.pynb
+    #loading of dataset
+    #transforming into feature vectors
+    #tokenizing of documents
+    #vectorizing Dataset
+    #classification using Logistic regression.
+    
+9) 5 tasks.pynb--->Task on regional language(Marathi) using iNLTK.
+10)Chunking.pynb--->Chunking task on LOR1 and LOR2 text files
