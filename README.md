@@ -42,4 +42,6 @@ Sentiment analysis.pynb
     #classification using Logistic regression.
     
 9) 5 tasks.pynb--->Task on regional language(Marathi) using iNLTK.
-10)Chunking.pynb--->Chunking task on LOR1 and LOR2 text files
+
+
+10)Chunking(1).pynb--->Chunking task on LOR1 and LOR2 text files
